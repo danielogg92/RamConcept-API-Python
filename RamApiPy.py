@@ -14,7 +14,7 @@ from ram_concept.model import Model
 from ram_concept.model import StructureType
 
 #define the file path that is to be used
-file_path='file_path_of_ramconcept_model_to_use\\BLD E - LEVEL 09 - 201124 - IFC.cpt';
+file_path='file_path_of_ramconcept_model_to_use\\file_name.cpt';
 
 def attachToInstanceRam(model_path,headless=False):
     """
